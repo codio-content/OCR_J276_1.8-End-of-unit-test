@@ -1,0 +1,139 @@
+[
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1778497585",
+  "source": {
+   "name": "Question 1",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. Ethics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n\nComputer science technology affects the environment as large amounts of <<<electricity>>> are consumed in <<<manufacturing>>> and running it. Large amounts are also consumed for <<<data>>> storage in large online centres.\n\nComputer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. It has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time.\n\nPeople are worried about the effects of computer science on their <<<privacy>>> as <<<surveillance>>> cameras allow people to be <<<tracked>>> in most cities and towns.",
+   "tokens": {
+    "blank": [
+     "morally",
+     "va\u001flues",
+     "should",
+     "must",
+     "electricity",
+     "manufacturing",
+     "data",
+     "communication",
+     "websites",
+     "online",
+     "entertainment",
+     "stream",
+     "privacy",
+     "surveillance",
+     "tracked"
+    ],
+    "text": [
+     "Behaving ethically means acting ",
+     0,
+     " in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good ",
+     0,
+     ". Ethics describes guidelines that ",
+     0,
+     " be followed but laws describe ones that ",
+     0,
+     " be followed.\n\nComputer science technology affects the environment as large amounts of ",
+     0,
+     " are consumed in ",
+     0,
+     " and running it. Large amounts are also consumed for ",
+     0,
+     " storage in large online centres.\n\nComputer science has had a huge effect on culture and society. Mobile devices have improved ",
+     0,
+     " between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from ",
+     0,
+     " and people buy more ",
+     0,
+     ". It has also had an effect on ",
+     0,
+     " as people can ",
+     0,
+     " the programs they want to watch at any time.\n\nPeople are worried about the effects of computer science on their ",
+     0,
+     " as ",
+     0,
+     " cameras allow people to be ",
+     0,
+     " in most cities and towns."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-4174085028",
+  "source": {
+   "name": "Question2",
+   "showName": false,
+   "instructions": "**For the following statements, enter either a P or an O to indicate whether they apply to proprietary or open source software respectively.**",
+   "points": "1",
+   "showValues": false,
+   "text": "- It is free to use: <<<O>>>\n\n- Support will be provided to keep customers h\u001fappy so th\u001fat they will keep using the software: <<<P>>>\n\n- Source code ca\u001fnnot be modified by users: <<<P>>>\n\n- It may need specialist knowledge to install and develop the software: <<<O>>>\n\n- It must be paid for: <<<P>>>\n\n- Users ca\u001fn ch\u001fange \u001fand upgr\u001fade the softwa\u001fre to meet their needs: <<<O>>>\n\n- The support and updates may be expensive: <<<P>>>\n\n- There is a community of dedicated enthusiasts who will provide help and support: <<<O>>>\n\n",
+   "tokens": {
+    "blank": [
+     "O",
+     "P",
+     "P",
+     "O",
+     "P",
+     "O",
+     "P",
+     "O"
+    ],
+    "text": [
+     "- It is free to use: ",
+     0,
+     "\n\n- Support will be provided to keep customers h\u001fappy so th\u001fat they will keep using the software: ",
+     0,
+     "\n\n- Source code ca\u001fnnot be modified by users: ",
+     0,
+     "\n\n- It may need specialist knowledge to install and develop the software: ",
+     0,
+     "\n\n- It must be paid for: ",
+     0,
+     "\n\n- Users ca\u001fn ch\u001fange \u001fand upgr\u001fade the softwa\u001fre to meet their needs: ",
+     0,
+     "\n\n- The support and updates may be expensive: ",
+     0,
+     "\n\n- There is a community of dedicated enthusiasts who will provide help and support: ",
+     0,
+     "\n\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3991619611",
+  "source": {
+   "name": "Question3",
+   "showName": false,
+   "instructions": "**For the following statements, enter the numbers of the act to which they apply.**",
+   "points": "1",
+   "showValues": true,
+   "text": "- It creates a right of access to information held by public authorities: <<<4>>>\n- It describes the responsibilities of holders of personal data: <<<1>>>\n- It protects a person’s creations from being exploited by others without their permission: <<<3>>>\n- It describes the offences committed by unauthorised access of a computer system: <<<2>>>",
+   "tokens": {
+    "blank": [
+     "4",
+     "1",
+     "3",
+     "2"
+    ],
+    "text": [
+     "- It creates a right of access to information held by public authorities: ",
+     0,
+     "\n- It describes the responsibilities of holders of personal data: ",
+     0,
+     "\n- It protects a person’s creations from being exploited by others without their permission: ",
+     0,
+     "\n- It describes the offences committed by unauthorised access of a computer system: ",
+     0
+    ]
+   }
+  }
+ }
+]
