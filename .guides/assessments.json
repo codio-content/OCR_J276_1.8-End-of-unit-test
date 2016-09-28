@@ -8,24 +8,13 @@
    "instructions": "**Select correct answers from the available list**",
    "points": "1",
    "showValues": true,
-   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. Ethics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n\nComputer science technology affects the environment as large amounts of <<<electricity>>> are consumed in <<<manufacturing>>> and running it. Large amounts are also consumed for <<<data>>> storage in large online centres.\n\nComputer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. It has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time.\n\nPeople are worried about the effects of computer science on their <<<privacy>>> as <<<surveillance>>> cameras allow people to be <<<tracked>>> in most cities and towns.",
+   "text": "Behaving ethically means acting <<<morally>>> in wa\u001fys th\u001fat individu\u001fals \u001fand societies think of as reflecting good <<<va\u001flues>>>. Ethics describes guidelines that <<<should>>> be followed but laws describe ones that <<<must>>> be followed.\n",
    "tokens": {
     "blank": [
      "morally",
      "va\u001flues",
      "should",
-     "must",
-     "electricity",
-     "manufacturing",
-     "data",
-     "communication",
-     "websites",
-     "online",
-     "entertainment",
-     "stream",
-     "privacy",
-     "surveillance",
-     "tracked"
+     "must"
     ],
     "text": [
      "Behaving ethically means acting ",
@@ -36,29 +25,7 @@
      0,
      " be followed but laws describe ones that ",
      0,
-     " be followed.\n\nComputer science technology affects the environment as large amounts of ",
-     0,
-     " are consumed in ",
-     0,
-     " and running it. Large amounts are also consumed for ",
-     0,
-     " storage in large online centres.\n\nComputer science has had a huge effect on culture and society. Mobile devices have improved ",
-     0,
-     " between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from ",
-     0,
-     " and people buy more ",
-     0,
-     ". It has also had an effect on ",
-     0,
-     " as people can ",
-     0,
-     " the programs they want to watch at any time.\n\nPeople are worried about the effects of computer science on their ",
-     0,
-     " as ",
-     0,
-     " cameras allow people to be ",
-     0,
-     " in most cities and towns."
+     " be followed.\n"
     ]
    }
   }
@@ -67,7 +34,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-4174085028",
   "source": {
-   "name": "Question2",
+   "name": "Question 5",
    "showName": false,
    "instructions": "**For the following statements, enter either a P or an O to indicate whether they apply to proprietary or open source software respectively.**",
    "points": "1",
@@ -110,7 +77,7 @@
   "type": "fill-in-the-blanks",
   "taskId": "fill-in-the-blanks-3991619611",
   "source": {
-   "name": "Question3",
+   "name": "Question 6",
    "showName": false,
    "instructions": "**For the following statements, enter the numbers of the act to which they apply.**",
    "points": "1",
@@ -132,6 +99,96 @@
      0,
      "\n- It describes the offences committed by unauthorised access of a computer system: ",
      0
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-1196310013",
+  "source": {
+   "name": "Question 2",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computer science technology affects the environment as large amounts of <<<electricity>>> are consumed in <<<manufacturing>>> and running it. Large amounts are also consumed for <<<data>>> storage in large online centres.\n",
+   "tokens": {
+    "blank": [
+     "electricity",
+     "manufacturing",
+     "data"
+    ],
+    "text": [
+     "Computer science technology affects the environment as large amounts of ",
+     0,
+     " are consumed in ",
+     0,
+     " and running it. Large amounts are also consumed for ",
+     0,
+     " storage in large online centres.\n"
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-3128054066",
+  "source": {
+   "name": "Question 3",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "Computer science has had a huge effect on culture and society. Mobile devices have improved <<<communication>>> between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from <<<websites>>> and people buy more <<<online>>>. It has also had an effect on <<<entertainment>>> as people can <<<stream>>> the programs they want to watch at any time.",
+   "tokens": {
+    "blank": [
+     "communication",
+     "websites",
+     "online",
+     "entertainment",
+     "stream"
+    ],
+    "text": [
+     "Computer science has had a huge effect on culture and society. Mobile devices have improved ",
+     0,
+     " between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from ",
+     0,
+     " and people buy more ",
+     0,
+     ". It has also had an effect on ",
+     0,
+     " as people can ",
+     0,
+     " the programs they want to watch at any time."
+    ]
+   }
+  }
+ },
+ {
+  "type": "fill-in-the-blanks",
+  "taskId": "fill-in-the-blanks-2044561553",
+  "source": {
+   "name": "Question 4",
+   "showName": false,
+   "instructions": "**Select correct answers from the available list**",
+   "points": "1",
+   "showValues": true,
+   "text": "People are worried about the effects of computer science on their <<<privacy>>> as <<<surveillance>>> cameras allow people to be <<<tracked>>> in most cities and towns.",
+   "tokens": {
+    "blank": [
+     "privacy",
+     "surveillance",
+     "tracked"
+    ],
+    "text": [
+     "People are worried about the effects of computer science on their ",
+     0,
+     " as ",
+     0,
+     " cameras allow people to be ",
+     0,
+     " in most cities and towns."
     ]
    }
   }

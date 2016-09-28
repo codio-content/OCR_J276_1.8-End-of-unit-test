@@ -5,11 +5,23 @@ Now it’s time to think carefully about what you have learned in the previous l
 |||guidance
 # Solution
 Behaving ethically means acting **morally** in ways that individuals and societies think of as reflecting good **values**. Ethics describes guidelines that **should** be followed but laws describe ones that **must** be followed.
+|||
+{Check It!|assessment}(fill-in-the-blanks-1196310013)
 
+|||guidance
+# Solution
 Computer science technology affects the environment as large amounts of **electricity** are consumed in **manufacturing** and running it. Large amounts are also consumed for **data** storage in large online centres.
+|||
+{Check It!|assessment}(fill-in-the-blanks-3128054066)
 
+|||guidance
+# Solution
 Computer science has had a huge effect on culture and society. Mobile devices have improved **communication** between people. Computer science has changed the ways in which people sell and buy goods as most businesses sell from **websites** and people buy more **online**. It has also had an effect on **entertainment** as people can **stream** the programs they want to watch at any time.
+|||
+{Check It!|assessment}(fill-in-the-blanks-2044561553)
 
+|||guidance
+# Solution
 People are worried about the effects of computer science on their **privacy** as **surveillance** cameras allow people to be **tracked** in most cities and towns.
 
 |||
