@@ -30,15 +30,15 @@ People are worried about the effects of computer science on their **privacy** as
 # Solution
 - It is free to use: **O**
 
-- Support will be provided to keep customers happy so that they will keep using the software: **P**
+- Support will be provided to keep customers happy so that they will keep using the software: **P**
 
-- Source code cannot be modified by users: **P**
+- Source code cannot be modified by users: **P**
 
 - It may need specialist knowledge to install and develop the software: **O**
 
 - It must be paid for: **P**
 
-- Users can change and upgrade the software to meet their needs: **O**
+- Users can change and upgrade the software to meet their needs: **O**
 
 - The support and updates may be expensive: **P**
 

@@ -39,7 +39,7 @@
    "instructions": "**For the following statements, enter either a P or an O to indicate whether they apply to proprietary or open source software respectively.**",
    "points": "1",
    "showValues": false,
-   "text": "- It is free to use: <<<O>>>\n\n- Support will be provided to keep customers h\u001fappy so th\u001fat they will keep using the software: <<<P>>>\n\n- Source code ca\u001fnnot be modified by users: <<<P>>>\n\n- It may need specialist knowledge to install and develop the software: <<<O>>>\n\n- It must be paid for: <<<P>>>\n\n- Users ca\u001fn ch\u001fange \u001fand upgr\u001fade the softwa\u001fre to meet their needs: <<<O>>>\n\n- The support and updates may be expensive: <<<P>>>\n\n- There is a community of dedicated enthusiasts who will provide help and support: <<<O>>>\n\n",
+   "text": "- It is free to use: <<<O>>>\n\n- Support will be provided to keep customers happy so that they will keep using the software: <<<P>>>\n\n- Source code cannot be modified by users: <<<P>>>\n\n- It may need specialist knowledge to install and develop the software: <<<O>>>\n\n- It must be paid for: <<<P>>>\n\n- Users can change and upgrade the software to meet their needs: <<<O>>>\n\n- The support and updates may be expensive: <<<P>>>\n\n- There is a community of dedicated enthusiasts who will provide help and support: <<<O>>>\n\n",
    "tokens": {
     "blank": [
      "O",
@@ -54,15 +54,15 @@
     "text": [
      "- It is free to use: ",
      0,
-     "\n\n- Support will be provided to keep customers h\u001fappy so th\u001fat they will keep using the software: ",
+     "\n\n- Support will be provided to keep customers happy so that they will keep using the software: ",
      0,
-     "\n\n- Source code ca\u001fnnot be modified by users: ",
+     "\n\n- Source code cannot be modified by users: ",
      0,
      "\n\n- It may need specialist knowledge to install and develop the software: ",
      0,
      "\n\n- It must be paid for: ",
      0,
-     "\n\n- Users ca\u001fn ch\u001fange \u001fand upgr\u001fade the softwa\u001fre to meet their needs: ",
+     "\n\n- Users can change and upgrade the software to meet their needs: ",
      0,
      "\n\n- The support and updates may be expensive: ",
      0,
